@@ -1,6 +1,6 @@
 I noticed that many people spend quite some time inspecting the books on a person's shelf. I am no exception. A bookshelf is a great opportunity to find out what someone is interested in and can be a useful conversation starter. So with the following collection, I would like to invite you to browse through my favourite books.
 
-(Click on the images to get more information on each book)
+(_Click on the images to get more information on each book_)
 
 Back to [annikatjuka.com](https://annikatjuka.github.io/)
 
@@ -8,7 +8,7 @@ Back to [annikatjuka.com](https://annikatjuka.github.io/)
 
 | | | |
 |---|---|---|
-| [<img src="bookshelf/Leavitt2011.jpg" width="200" height="270">](https://g.co/kgs/hzJ2a4) | [<img src="bookshelf/godfrey-smith2016.jpg" width="200" height="270">](https://g.co/kgs/Hx9Dqr) | |
+| [<img style="border: 3px solid #000000" src="bookshelf/Leavitt2011.jpg" width="200" height="270">](https://g.co/kgs/hzJ2a4) | [<img src="bookshelf/godfrey-smith2016.jpg" width="200" height="270">](https://g.co/kgs/Hx9Dqr) | |
 | [<img src="bookshelf/kahneman2011.jpg" width="200" height="270">](https://g.co/kgs/SSbsxs) | [<img src="bookshelf/aitchison1987.jpeg" width="200" height="270">](https://www.wiley.com/en-us/Words+in+the+Mind%3A+An+Introduction+to+the+Mental+Lexicon%2C+4th+Edition-p-9780470656471) | [<img src="bookshelf/murphy2002.jpeg" width="200" height="270">](https://g.co/kgs/3CL7Uf) |
 | [<img src="bookshelf/lakoff1980.jpg" width="200" height="270">](https://g.co/kgs/UAoVg2) | [<img src="bookshelf/schrott2011.jpg" width="200" height="270">](https://www.hanser-literaturverlage.de/buch/gehirn-und-gedicht/978-3-446-25369-8/) | [<img src="bookshelf/schwarz-friesel2013.jpg" width="200" height="270">](https://www.degruyter.com/view/journals/zrs/3/2/article-p271.xml) |
 
