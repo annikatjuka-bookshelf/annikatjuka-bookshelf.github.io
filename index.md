@@ -1,5 +1,3 @@
-# My virtual Bookshelf 
-
 I noticed that many people are curious about bookshelves. I'm no exception. The first thing I check out at a party is the host's bookshelf. So I'm not surprised that bookshelves have become a popular background for [YouTube videos](https://youtu.be/QmdXN2FR2eY). A bookshelf is a great opportunity to indirectly illustrate your interests and knowledge. As a student, I would have loved to take a look at the bookshelves of my favorite professors. If I had a bookshelf in my YouTube videos, I would select the following books to put them on display. (Click on the images to get more information on each book)
 
 - [Language and Mind](#language-and-mind)
