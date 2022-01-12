@@ -1,6 +1,6 @@
 I noticed that many people are curious about bookshelves. I am no exception. A bookshelf is a great opportunity to indirectly illustrate your interests and knowledge. As a student, I would have loved to take a look at the bookshelves of my favorite professors. So with the following collection I would like to invite you to browse through my favourite books.
 
-(Click on the images to get more information on each book) <br/><br/>
+(Click on the images to get more information on each book)
 
 Back to [annikatjuka.com](https://annikatjuka.github.io/)
 
