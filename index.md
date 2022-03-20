@@ -8,7 +8,7 @@ Back to [annikatjuka.com](https://annikatjuka.github.io/)
 
 | | | |
 |---|---|---|
-| [<img style="border: 1px solid #000000" src="bookshelf/Leavitt2011.jpg" width="200" height="270">](https://g.co/kgs/hzJ2a4) | [<img style="border: 1px solid #000000" src="bookshelf/godfrey-smith2016.jpg" width="200" height="270">](https://g.co/kgs/Hx9Dqr) | |
+[<img style="border: 1px solid #000000" src="bookshelf/Levinson2003.jpg" width="200" height="270">](https://g.co/kgs/hXt3n2) | [<img style="border: 1px solid #000000" src="bookshelf/Leavitt2011.jpg" width="200" height="270">](https://g.co/kgs/hzJ2a4) | [<img style="border: 1px solid #000000" src="bookshelf/godfrey-smith2016.jpg" width="200" height="270">](https://g.co/kgs/Hx9Dqr) |
 | [<img style="border: 1px solid #000000" src="bookshelf/kahneman2011.jpg" width="200" height="270">](https://g.co/kgs/SSbsxs) | [<img style="border: 1px solid #000000" src="bookshelf/aitchison1987.jpeg" width="200" height="270">](https://www.wiley.com/en-us/Words+in+the+Mind%3A+An+Introduction+to+the+Mental+Lexicon%2C+4th+Edition-p-9780470656471) | [<img style="border: 1px solid #000000" src="bookshelf/murphy2002.jpeg" width="200" height="270">](https://g.co/kgs/3CL7Uf) |
 | [<img style="border: 1px solid #000000" src="bookshelf/lakoff1980.jpg" width="200" height="270">](https://g.co/kgs/UAoVg2) | [<img style="border: 1px solid #000000" src="bookshelf/schrott2011.jpg" width="200" height="270">](https://www.hanser-literaturverlage.de/buch/gehirn-und-gedicht/978-3-446-25369-8/) | [<img style="border: 1px solid #000000" src="bookshelf/schwarz-friesel2013.jpg" width="200" height="270">](https://www.degruyter.com/view/journals/zrs/3/2/article-p271.xml) |
 
@@ -30,6 +30,7 @@ Back to [annikatjuka.com](https://annikatjuka.github.io/)
 
 | | | |
 |---|---|---|
+| [<img style="border: 1px solid #000000" src="bookshelf/Goodall2013.jpeg" width="200" height="270"/>](https://g.co/kgs/SmhyGV) | | |
 | [<img style="border: 1px solid #000000" src="bookshelf/Harris2021.jpg" width="200" height="270"/>](https://g.co/kgs/UxWDW5) | [<img style="border: 1px solid #000000" src="bookshelf/Pullum2018.jpeg" width="200" height="270"/>](https://g.co/kgs/rQf5go) | [<img style="border: 1px solid #000000" src="bookshelf/Criado-Perez 2019.jpeg" width="200" height="270"/>](https://g.co/kgs/YDe2ke) |
 | [<img style="border: 1px solid #000000" src="bookshelf/Pearl2019.jpeg" width="200" height="270"/>](https://g.co/kgs/ijy3W2) | [<img style="border: 1px solid #000000" src="bookshelf/Spiegelhalter2019.jpeg" alt="Your image title" width="200" height="270"/>](https://g.co/kgs/9qPyCL) | [<img style="border: 1px solid #000000" src="bookshelf/Mitchell2009.jpeg" width="200" height="270"/>](https://g.co/kgs/KZCjYM) |
 | [<img style="border: 1px solid #000000" src="bookshelf/Rosling2018.jpg" width="200" height="270"/>](https://g.co/kgs/AQdmWN) | [<img style="border: 1px solid #000000" src="bookshelf/evans2009.jpeg" width="200" height="270"/>](https://g.co/kgs/FQZM2N) | [<img style="border: 1px solid #000000" src="bookshelf/feynman1992.jpg" width="200" height="270">](https://g.co/kgs/V3F4xp) | 
