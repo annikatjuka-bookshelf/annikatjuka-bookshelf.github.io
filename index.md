@@ -53,7 +53,7 @@ Back to [annikatjuka.com](https://annikatjuka.github.io/)
 
 | | | |
 |---|---|---|
-| [<img style="border: 1px solid #000000" src="bookshelf/Lencioni2002.jpeg" width="200" height="270">](https://g.co/kgs/Pcg3Qv) | [<img style="border: 1px solid #000000" src="bookshelf/eurich2017.png" width="200" height="270">](https://g.co/kgs/zQ5F28) | |
+| [<img style="border: 1px solid #000000" src="bookshelf/Fussell2017.jpeg" width="200" height="270">](https://g.co/kgs/HEEFBE) | [<img style="border: 1px solid #000000" src="bookshelf/Lencioni2002.jpeg" width="200" height="270">](https://g.co/kgs/Pcg3Qv) | [<img style="border: 1px solid #000000" src="bookshelf/eurich2017.png" width="200" height="270">](https://g.co/kgs/zQ5F28) |
 | [<img style="border: 1px solid #000000" src="bookshelf/cain2011.jpg" width="200" height="270">](https://g.co/kgs/G7dkHE) | [<img style="border: 1px solid #000000" src="bookshelf/SchulzvonThun1998.jpg" width="200" height="270">](https://www.schulz-von-thun.de/veroeffentlichungen/miteinander-reden) | [<img style="border: 1px solid #000000" src="bookshelf/SchulzvonThun2007.jpg" width="200" height="270">](https://www.schulz-von-thun.de/veroeffentlichungen/miteinander-reden) |
 | [<img style="border: 1px solid #000000" src="bookshelf/SchulzvonThun1981b.jpg" width="200" height="270">](https://www.schulz-von-thun.de/veroeffentlichungen/miteinander-reden) | [<img style="border: 1px solid #000000" src="bookshelf/SchulzvonThun1981a.jpg" width="200" height="270">](https://www.schulz-von-thun.de/veroeffentlichungen/miteinander-reden) | [<img style="border: 1px solid #000000" src="bookshelf/watzlawick1978.jpg" width="200" height="270">](https://g.co/kgs/ix7kXv) |
 
