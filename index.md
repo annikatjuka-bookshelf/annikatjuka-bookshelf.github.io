@@ -8,7 +8,7 @@ Back to [annikatjuka.com](https://annikatjuka.github.io/)
 
 | | | |
 |---|---|---|
-| [<img style="border: 1px solid #000000" src="bookshelf/Kemmerer2019.jpg" width="200" height="270">](https://g.co/kgs/fe8LD6) | [<img style="border: 1px solid #000000" src="bookshelf/Lucy1992.jpeg" width="200" height="270">](https://g.co/kgs/yyLRjS) | |
+| [<img style="border: 1px solid #000000" src="bookshelf/Kemmerer2019.jpg" width="200" height="270">](https://g.co/kgs/fe8LD6) | [<img style="border: 1px solid #000000" src="bookshelf/Lucy1992.jpeg" width="200" height="270">](https://g.co/kgs/yyLRjS) | [<img style="border: 1px solid #000000" src="bookshelf/Chomsky1968.jpg" width="200" height="270">](https://www-google-de.offsitelib.eva.mpg.de/books/edition/Language_and_Mind/HMtLMhwCXDoC?hl=en&gbpv=0) |
 | [<img style="border: 1px solid #000000" src="bookshelf/Levinson2003.jpg" width="200" height="270">](https://g.co/kgs/hXt3n2) | [<img style="border: 1px solid #000000" src="bookshelf/Leavitt2011.jpg" width="200" height="270">](https://g.co/kgs/hzJ2a4) | [<img style="border: 1px solid #000000" src="bookshelf/godfrey-smith2016.jpg" width="200" height="270">](https://g.co/kgs/Hx9Dqr) |
 | [<img style="border: 1px solid #000000" src="bookshelf/kahneman2011.jpg" width="200" height="270">](https://g.co/kgs/SSbsxs) | [<img style="border: 1px solid #000000" src="bookshelf/aitchison1987.jpeg" width="200" height="270">](https://www.wiley.com/en-us/Words+in+the+Mind%3A+An+Introduction+to+the+Mental+Lexicon%2C+4th+Edition-p-9780470656471) | [<img style="border: 1px solid #000000" src="bookshelf/murphy2002.jpeg" width="200" height="270">](https://g.co/kgs/3CL7Uf) |
 | [<img style="border: 1px solid #000000" src="bookshelf/lakoff1980.jpg" width="200" height="270">](https://g.co/kgs/UAoVg2) | [<img style="border: 1px solid #000000" src="bookshelf/schrott2011.jpg" width="200" height="270">](https://www.hanser-literaturverlage.de/buch/gehirn-und-gedicht/978-3-446-25369-8/) | [<img style="border: 1px solid #000000" src="bookshelf/schwarz-friesel2013.jpg" width="200" height="270">](https://www.degruyter.com/view/journals/zrs/3/2/article-p271.xml) |
@@ -17,7 +17,7 @@ Back to [annikatjuka.com](https://annikatjuka.github.io/)
 
 | | | |
 |---|---|---|
-| [<img style="border: 1px solid #000000" src="bookshelf/Chomsky1966.jpg" width="200" height="270"/>](https://g.co/kgs/ev5hYp) | [<img style="border: 1px solid #000000" src="bookshelf/Saussure1893.jpeg" width="200" height="270"/>](https://g.co/kgs/baq4aq) | |
+| [<img style="border: 1px solid #000000" src="bookshelf/Bloomfield1933.jpg" width="200" height="270"/>](https://www-google-de.offsitelib.eva.mpg.de/books/edition/Language/87BCDVsmFE4C?hl=en&gbpv=0) | [<img style="border: 1px solid #000000" src="bookshelf/Chomsky1966.jpg" width="200" height="270"/>](https://g.co/kgs/ev5hYp) | [<img style="border: 1px solid #000000" src="bookshelf/Saussure1893.jpeg" width="200" height="270"/>](https://g.co/kgs/baq4aq) |
 | [<img style="border: 1px solid #000000" src="bookshelf/Frege1892.jpeg" width="200" height="270"/>](https://de.wikipedia.org/wiki/%C3%9Cber_Sinn_und_Bedeutung) | [<img style="border: 1px solid #000000" src="bookshelf/pustejovsky1995.jpeg" width="200" height="270"/>](https://g.co/kgs/rgUZRf) | [<img style="border: 1px solid #000000" src="bookshelf/Sweetser1990.jpeg" width="200" height="270">](https://g.co/kgs/HNqYxy) |
 | [<img style="border: 1px solid #000000" src="bookshelf/geeraerts2010.jpg" alt="Sublime's custom image" width="200" height="270">](https://g.co/kgs/fLwXcy) | [<img style="border: 1px solid #000000" src="bookshelf/joseph2001.jpg" width="200" height="270">](https://g.co/kgs/v7VcUY) | [<img style="border: 1px solid #000000" src="bookshelf/austin1962.jpeg" width="200" height="270">](https://g.co/kgs/BJ8S5T) |
 
@@ -25,6 +25,7 @@ Back to [annikatjuka.com](https://annikatjuka.github.io/)
 
 | | | |
 |---|---|---|
+| [<img style="border: 1px solid #000000" src="bookshelf/Zipf1949.jpeg" width="200" height="270"/>](https://www-google-de.offsitelib.eva.mpg.de/books/edition/Human_Behavior_and_the_Principle_of_Leas/m-XDCwAAQBAJ?hl=en&gbpv=0) | | |
 | [<img style="border: 1px solid #000000" src="bookshelf/Hull1988.jpeg" width="200" height="270"/>](https://g.co/kgs/tkgbFV) | [<img style="border: 1px solid #000000" src="bookshelf/Darwin1859.jpeg" width="200" height="270"/>](https://g.co/kgs/m8CHXM) | [<img style="border: 1px solid #000000" src="bookshelf/kuhn1962.jpeg" width="200" height="270"/>](https://g.co/kgs/3YsznE) |
 
 # Science as an Adventure
