@@ -66,7 +66,7 @@ Back to [annikatjuka.com](https://annikatjuka.github.io/)
 
 | | | |
 |---|---|---|
+| [<img style="border: 1px solid #000000" src="bookshelf/Elkins-Tanton2022.jpg" width="200" height="270"/>](https://www-google-de.offsitelib.eva.mpg.de/books/edition/A_Portrait_of_the_Scientist_as_a_Young_W/2LRBEAAAQBAJ?hl=en&gbpv=0) | | |
 | [<img style="border: 1px solid #000000" src="bookshelf/Woolf1929.jpeg" width="200" height="270">](https://g.co/kgs/RKyKgN) | [<img style="border: 1px solid #000000" src="bookshelf/bakewell2010.jpg" width="200" height="270">](https://g.co/kgs/qhiuLq) | [<img style="border: 1px solid #000000" src="bookshelf/obama2020.jpg" width="200" height="270">](https://g.co/kgs/QjYqSJ) |
 | [<img style="border: 1px solid #000000" src="bookshelf/goodall2000.jpg" width="200" height="270">](https://g.co/kgs/dYRQd1) | [<img style="border: 1px solid #000000" src="bookshelf/obama2018.jpeg" width="200" height="270">](https://g.co/kgs/1f2bPB) | [<img style="border: 1px solid #000000" src="bookshelf/noah2016.jpeg" width="200" height="270">](https://g.co/kgs/oA5p9n) | 
-
 
