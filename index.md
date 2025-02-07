@@ -68,8 +68,9 @@ Back to [annikatjuka.com](https://annikatjuka.github.io/)
 
 | | | |
 |---|---|---|
-|[<img style="border: 1px solid #000000" src="bookshelf/Napier2020.jpg" width="200" height="270">](https://g.co/kgs/21TH1Q5) | [<img style="border: 1px solid #000000" src="bookshelf/Benzie2020.jpg" width="200" height="270">](https://g.co/kgs/4QKsZEh) | [<img style="border: 1px solid #000000" src="bookshelf/Murakami2007.jpeg" width="200" height="270">](https://g.co/kgs/wV5U5LK) | 
-| [<img style="border: 1px solid #000000" src="bookshelf/Benzie2020.jpg" width="200" height="270">](https://g.co/kgs/4QKsZEh) | [<img style="border: 1px solid #000000" src="bookshelf/Murakami2007.jpeg" width="200" height="270">](https://g.co/kgs/wV5U5LK) | [<img style="border: 1px solid #000000" src="bookshelf/Brick2021.jpeg" width="200" height="270">](https://g.co/kgs/SqLp1fg) |
+|[<img style="border: 1px solid #000000" src="bookshelf/Napier2020.jpg" width="200" height="270">](https://g.co/kgs/21TH1Q5) | [<img style="border: 1px solid #000000" src="bookshelf/Benzie2020.jpg" width="200" height="270">](https://g.co/kgs/4QKsZEh) | [<img style="border: 1px solid #000000" src="bookshelf/Murakami2007.jpeg" width="200" height="270">](https://g.co/kgs/wV5U5LK) |
+| [<img style="border: 1px solid #000000" src="bookshelf/Current2021.jpg" width="200" height="270">](https://www.thalia.de/shop/home/artikeldetails/A1058737232) | | |
+
 
 
 # Inspiration
