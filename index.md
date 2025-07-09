@@ -27,7 +27,7 @@ Back to [annikatjuka.com](https://annikatjuka.github.io/)
 
 | | | |
 |---|---|---|
-| [<img style="border: 1px solid #000000" src="bookshelf/Zipf1949.jpeg" width="200" height="270"/>](https://www-google-de.offsitelib.eva.mpg.de/books/edition/Human_Behavior_and_the_Principle_of_Leas/m-XDCwAAQBAJ?hl=en&gbpv=0) | | |
+| [<img style="border: 1px solid #000000" src="bookshelf/Zipf1949.jpeg" width="200" height="270"/>](https://www-google-de.offsitelib.eva.mpg.de/books/edition/Human_Behavior_and_the_Principle_of_Leas/m-XDCwAAQBAJ?hl=en&gbpv=0) | [<img style="border: 1px solid #000000" src="bookshelf/Brown2011.jpg" width="200" height="270"/>](https://g.co/kgs/cmHTXsa) | |
 | [<img style="border: 1px solid #000000" src="bookshelf/Hull1988.jpeg" width="200" height="270"/>](https://g.co/kgs/tkgbFV) | [<img style="border: 1px solid #000000" src="bookshelf/Darwin1859.jpeg" width="200" height="270"/>](https://g.co/kgs/m8CHXM) | [<img style="border: 1px solid #000000" src="bookshelf/kuhn1962.jpeg" width="200" height="270"/>](https://g.co/kgs/3YsznE) |
 
 # Science as an Adventure
